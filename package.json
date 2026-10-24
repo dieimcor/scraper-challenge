@@ -1,0 +1,20 @@
+{
+  "name": "scraper-challenge-trf5",
+  "version": "1.0.0",
+  "description": "Scraper avanzado para el tribunal TRF5 evadiendo bloqueos de seguridad sin navegadores automatizados.",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsx": "^4.7.1",
+    "typescript": "^5.3.3"
+  }
+}

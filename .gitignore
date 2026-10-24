@@ -1,0 +1,10 @@
+# Dependencias
+node_modules/
+
+# Archivos de entorno y logs
+.env
+npm-debug.log*
+
+# Archivos generados por el scraper (evita subir miles de PDFs a GitHub)
+pdfs/
+datos_extraidos.json
