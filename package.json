@@ -6,7 +6,7 @@
   "scripts": {
     "start": "tsx index.ts"
   },
-  "author": "Tu Nombre",
+  "author": "dieimcor",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.7",
