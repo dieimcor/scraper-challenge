@@ -25,7 +25,7 @@ El objetivo principal de este desafío fue construir una herramienta robusta y e
 
 1. Clonar el repositorio:
    ```bash
-   git clone <tu-enlace-de-github>
+   git clone <https://github.com/dieimcor/scraper-challenge.git>
    cd scraper-challenge
 
 2. Instalar las dependencias del proyecto:
